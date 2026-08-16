@@ -68,3 +68,11 @@ See [CLAUDE.md](CLAUDE.md) for contribution guidelines.
 ## 📄 License
 
 MIT © Varun Ruhella. See [LICENSE](LICENSE) for details.
+
+## Who this is for
+
+Self-Host Starter is for developers who want a practical Docker Compose starting point for personal AI services, automation, and homelab infrastructure. Review the service configuration and secrets guidance before exposing any service beyond a trusted network.
+
+## Why star this repository
+
+Star this project if you self-host AI tools, maintain a homelab, or want a documented starting point for Docker-based automation infrastructure.
